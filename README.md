@@ -18,6 +18,7 @@ I am using this repository to improve my problem-solving and programming skills.
 - Loops
 - Conditional Statements
 - Basic Problem Solving
+- Learning Git: Practising git pull.
 
 ## Author
 Devansh
