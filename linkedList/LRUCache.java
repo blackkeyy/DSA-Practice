@@ -66,6 +66,10 @@ class LRUCache {
             insertToHead(newNode);
         }
     }
+    public int size() 
+    {
+    return map.size();
+    }
 
     private void remove(Node node) {
         node.prev.next = node.next;
